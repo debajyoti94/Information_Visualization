@@ -1,0 +1,7 @@
+pandas==0.24.1
+dash==1.18.1
+dash_core_components==1.14.1
+dash_html_components==1.1.1
+plotly==4.14.1
+pymysql==0.10.1
+squarify==0.4.3
