@@ -2,8 +2,8 @@ import pymysql
 import dash
 import dash_html_components as html
 import dash_core_components as dcc
-import Tab1_visualization_functions.py as tab1
-import Tab2_visualization_functions.py as tab2
+import Tab1_visualization_functions as tab1
+import Tab2_visualization_functions as tab2
 
 
 host = ""
